@@ -1,0 +1,1 @@
+export const RECEVIVE_DATA = 'RECEVIVE_DATA'
