@@ -1,7 +1,6 @@
-# hbooker
+# 仿微信
 
-> A Vue.js project
-
+>一个正在完善的作品
 ## Build Setup
 
 ``` bash
